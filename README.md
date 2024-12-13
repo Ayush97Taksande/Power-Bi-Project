@@ -27,5 +27,5 @@ The dataset includes anonymized HR data, including information about employee de
 3. Explore the dashboard by interacting with the visualizations to uncover insights.
 
 ## Screenshot
-![Dashboard Screenshot](https://drive.google.com/file/d/1CB9S4_6iK2tpommIpSxC01CyveGyxIDW/view?usp=sharing)
+![Dashboard Screenshot][https://drive.google.com/file/d/1CB9S4_6iK2tpommIpSxC01CyveGyxIDW/view?usp=sharing])
 
